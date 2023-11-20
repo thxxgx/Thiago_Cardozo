@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("https://images5.alphacoders.com/907/907779.jpg");
+    background-size: cover;
+  }
+  
+  h1{
+    color: rgb(4, 22, 37);
+  }
+
+  .random1 {
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  h2 {
+    color: rgb(46, 116, 179);
+  }
+
